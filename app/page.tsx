@@ -1,6 +1,5 @@
 'use client'
 
-import Head from 'next/head';
 import { useState, useEffect } from 'react';
 import Joyride, { Step } from 'react-joyride';
 import Sidebar from './components/Sidebar';
